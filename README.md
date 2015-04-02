@@ -1,4 +1,3 @@
-// Should be filled with some useful info.
+This is Group 11s Repository for the Agile Development Processes.
 
-Test
-
+(This info should be updated)
