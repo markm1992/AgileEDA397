@@ -1,6 +1,7 @@
-This is Group 11s Repository for the Agile Development Processes (EDA397)
+Agile Development Processes (EDA397)
 =================
-<br>
+Group 11
+--------
 Members:
 --------
 - Williams Opoku
